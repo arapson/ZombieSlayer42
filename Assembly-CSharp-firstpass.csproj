@@ -76,7 +76,6 @@
      <None Include="Assets\Assets\Haunted_Town\_shader\AlphaTest-Bumped.shader" />
      <None Include="Assets\Assets\Haunted_Town\Standard Assets\Effects\ToonShading\Shaders\ToonBasicOutline.shader" />
      <None Include="Assets\Assets\Haunted_Town\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfField34.shader" />
-     <None Include="Assets\RainMaker\Prefab\RainShader.shader" />
      <None Include="Assets\Assets\Haunted_Town\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBlur.shader" />
      <None Include="Assets\Assets\Haunted_Town\Standard Assets\Effects\ImageEffects\Shaders\SSAOShader.shader" />
      <None Include="Assets\Assets\Haunted_Town\Standard Assets\Effects\ImageEffects\Shaders\ConvertDepth.shader" />
@@ -116,7 +115,6 @@
      <None Include="Assets\Assets\Haunted_Town\Standard Assets\Effects\ImageEffects\Shaders\Tonemapper.shader" />
      <None Include="Assets\Assets\Haunted_Town\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BrightPassFilter.shader" />
      <None Include="Assets\Assets\Haunted_Town\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAA2.shader" />
-     <None Include="Assets\RainMaker\Readme.txt" />
      <None Include="Assets\Assets\Haunted_Town\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrection3DLut.shader" />
      <None Include="Assets\Assets\Haunted_Town\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\LensFlareCreate.shader" />
      <None Include="Assets\Assets\Haunted_Town\Standard Assets\Effects\ImageEffects\Shaders\EdgeDetectNormals.shader" />

@@ -154,6 +154,19 @@
      <Compile Include="Assets\My Scripts\General Scripts\MainMenu.cs" />
      <Compile Include="Assets\My Scripts\General Scripts\SpawnerProximity.cs" />
      <Compile Include="Assets\My Scripts\General Scripts\TestGameOver.cs" />
+     <Compile Include="Assets\My Scripts\Gun Scripts\Gun_Ammo.cs" />
+     <Compile Include="Assets\My Scripts\Gun Scripts\Gun_AmmoUI.cs" />
+     <Compile Include="Assets\My Scripts\Gun Scripts\Gun_Animator.cs" />
+     <Compile Include="Assets\My Scripts\Gun Scripts\Gun_ApplyDamage.cs" />
+     <Compile Include="Assets\My Scripts\Gun Scripts\Gun_ApplyForce.cs" />
+     <Compile Include="Assets\My Scripts\Gun Scripts\Gun_DynamicCrosshair.cs" />
+     <Compile Include="Assets\My Scripts\Gun Scripts\Gun_HitEffects.cs" />
+     <Compile Include="Assets\My Scripts\Gun Scripts\Gun_MuzzleFlash.cs" />
+     <Compile Include="Assets\My Scripts\Gun Scripts\Gun_Reset.cs" />
+     <Compile Include="Assets\My Scripts\Gun Scripts\Gun_Shoot.cs" />
+     <Compile Include="Assets\My Scripts\Gun Scripts\Gun_Sounds.cs" />
+     <Compile Include="Assets\My Scripts\Gun Scripts\Gun_StandardInput.cs" />
+     <Compile Include="Assets\My Scripts\Item Scripts\Gun_BurstFireIndicator.cs" />
      <Compile Include="Assets\My Scripts\Item Scripts\Item_Ammo.cs" />
      <Compile Include="Assets\My Scripts\Item Scripts\Item_Animator.cs" />
      <Compile Include="Assets\My Scripts\Item Scripts\Item_Colliders.cs" />
@@ -173,6 +186,7 @@
      <Compile Include="Assets\My Scripts\Item Scripts\Item_UI.cs" />
      <Compile Include="Assets\My Scripts\Master Scripts\Enemy_Master.cs" />
      <Compile Include="Assets\My Scripts\Master Scripts\GameManager_Master.cs" />
+     <Compile Include="Assets\My Scripts\Master Scripts\Gun_Master.cs" />
      <Compile Include="Assets\My Scripts\Master Scripts\Item_Master.cs" />
      <Compile Include="Assets\My Scripts\Master Scripts\Player_Master.cs" />
      <Compile Include="Assets\My Scripts\Player Scripts\Player_AmmoBox.cs" />
@@ -180,12 +194,6 @@
      <Compile Include="Assets\My Scripts\Player Scripts\Player_DetectItem.cs" />
      <Compile Include="Assets\My Scripts\Player Scripts\Player_Health.cs" />
      <Compile Include="Assets\My Scripts\Player Scripts\Player_Inventory.cs" />
-     <Compile Include="Assets\RainMaker\Demo\DemoScript.cs" />
-     <Compile Include="Assets\RainMaker\Demo\DemoScript2D.cs" />
-     <Compile Include="Assets\RainMaker\Prefab\BaseRainScript.cs" />
-     <Compile Include="Assets\RainMaker\Prefab\RainCollision.cs" />
-     <Compile Include="Assets\RainMaker\Prefab\RainScript.cs" />
-     <Compile Include="Assets\RainMaker\Prefab\RainScript2D.cs" />
      <Compile Include="Assets\Zombie Guy\Models\AI_Zombie_avi.cs" />
      <None Include="Assets\Assets\Haunted_Town\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Assets\Haunted_Town\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
@@ -216,7 +224,6 @@
      <None Include="Assets\Assets\Haunted_Town\_shader\AlphaTest-Bumped.shader" />
      <None Include="Assets\Assets\Haunted_Town\Standard Assets\Effects\ToonShading\Shaders\ToonBasicOutline.shader" />
      <None Include="Assets\Assets\Haunted_Town\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfField34.shader" />
-     <None Include="Assets\RainMaker\Prefab\RainShader.shader" />
      <None Include="Assets\Assets\Haunted_Town\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBlur.shader" />
      <None Include="Assets\Assets\Haunted_Town\Standard Assets\Effects\ImageEffects\Shaders\SSAOShader.shader" />
      <None Include="Assets\Assets\Haunted_Town\Standard Assets\Effects\ImageEffects\Shaders\ConvertDepth.shader" />
@@ -256,7 +263,6 @@
      <None Include="Assets\Assets\Haunted_Town\Standard Assets\Effects\ImageEffects\Shaders\Tonemapper.shader" />
      <None Include="Assets\Assets\Haunted_Town\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BrightPassFilter.shader" />
      <None Include="Assets\Assets\Haunted_Town\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAA2.shader" />
-     <None Include="Assets\RainMaker\Readme.txt" />
      <None Include="Assets\Assets\Haunted_Town\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrection3DLut.shader" />
      <None Include="Assets\Assets\Haunted_Town\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\LensFlareCreate.shader" />
      <None Include="Assets\Assets\Haunted_Town\Standard Assets\Effects\ImageEffects\Shaders\EdgeDetectNormals.shader" />
